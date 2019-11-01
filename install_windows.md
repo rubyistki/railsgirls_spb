@@ -2,7 +2,7 @@
 
 1. Install [Sublime](https://www.sublimetext.com) (или ваш любимый редактор)
 2. Install [Git](https://git-scm.com/download/win)
-3. Install Ruby 2.3, Rails, etc via [RailsInstaller](railsinstaller.org/ru-RU) without git
+3. Install Ruby 2.3, Rails, etc via [RailsInstaller](http://railsinstaller.org/ru-RU) without git
 Нужно снять галочку с "git" при установке.
 4. Install [Node.js](https://nodejs.org/en/download/)
 
