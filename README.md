@@ -5,3 +5,4 @@
 - [Установка на Win 10 (с wsl)](/install_win10.md)
 - [Cheat по командам](/commands_cheat.jpg)
 - [Материалы на будущее](/whats_next.md)
+- [Полезные команды Git'a](/git_commands.md)
