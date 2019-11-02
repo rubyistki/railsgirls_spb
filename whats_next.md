@@ -31,3 +31,10 @@
 ### Сайты с упражнениями
 - [Exercism.io](https://exercism.io/)
 - [Codewars](https://www.codewars.com/)
+
+### Git
+- [Книга о git](https://git-scm.com/book/ru/v2) - на русском и английском
+
+### Как учиться
+- [Mindshift](https://ru.coursera.org/learn/mindshift)
+- [Думай, как математик](https://www.livelib.ru/book/1001384514-dumaj-kak-matematik-kak-reshat-lyubye-zadachi-bystree-i-effektivnee-barbara-oakli)
