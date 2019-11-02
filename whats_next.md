@@ -7,6 +7,7 @@
 - [Перевод Rails-гайдов на русский](http://rusrails.ru/)
 - [Бесплатный курс по Ruby на русском](http://rubyschool.us/)
 Немного устарел, но основы по нему вполне можно освоить.
+- [Курс по RoR на курсере](https://www.coursera.org/specializations/ruby-on-rails)
 
 ### О программировании в целом
 - [Журнал о программировании](https://thecode.media/)
@@ -26,3 +27,7 @@
 ### Приложения для изучения основ программирования
 - [Sololearn](https://www.sololearn.com/)
 Приложение для изучения основ языков программирования -- андроид, ios, веб-версия.
+
+### Сайты с упражнениями
+- [Exercism.io](https://exercism.io/)
+- [Codewars](https://www.codewars.com/)
